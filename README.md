@@ -55,18 +55,20 @@ Last years work seeked to help improve classification of oysters that were hard 
 Below are some examples of inference run on various images, as well as some tracking done on video.
 
 ## Single Label - Segmentation
-<video width="300" controls> 
-<source src="./docs/SingleLabel-seg.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/107053197/fb8d62c5-6d9b-45c5-94cd-4e9886e15385
+
+
 
 ## Single Label - Detection
-<img src="./docs/InferenceTestImage1.jpg" width="300"> <img src="./docs/TestImg.jpg" width="300">
+
 
 ## Multi-label - Detection
-<img src="./docs/InferenceTestImage4.jpg" width="300"> <img src="./docs/Before1.jpg" width="300">
+
 
 ## Multi-label - Detection
-hhh
+
 
 # Getting Started 
 
