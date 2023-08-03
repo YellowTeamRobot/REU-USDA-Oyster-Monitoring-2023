@@ -55,7 +55,9 @@ Last years work seeked to help improve classification of oysters that were hard 
 Below are some examples of inference run on various images, as well as some tracking done on video.
 
 ## Single Label - Segmentation
-<img src="./docs/InferenceTestImage9.jpg" width="300"> <img src="./docs/TestImg5.jpg" width="300">
+<video width="300" controls> 
+<source src="./docs/SingleLabel-seg.mp4" type="video/mp4">
+</video>
 
 ## Single Label - Detection
 <img src="./docs/InferenceTestImage1.jpg" width="300"> <img src="./docs/TestImg.jpg" width="300">
