@@ -1,5 +1,5 @@
 # Machine Learning and Computer Vision Techniques to Identify and Monitor *Ostreidae* Nondisruptively
-<a href="./GettingStarted.md#Anaconda"><img src="https://img.shields.io/badge/Run%20with%20Anaconda-h?logo=anaconda&labelColor=grey" /></a>
+<a href="./GettingStarted.md#anaconda"><img src="https://img.shields.io/badge/Run%20with%20Anaconda-h?logo=anaconda&labelColor=grey" /></a>
 
 
 ## This research was done at Salisbury University as a joint project between the NSF REU Summer 2023 Program and University of Maryland Eastern Shore USDA Smart Shellfish Farming grant:
