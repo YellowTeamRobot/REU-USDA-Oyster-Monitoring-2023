@@ -19,11 +19,12 @@
 - [YOLOv8](https://github.com/ultralytics/ultralytics)
 - [Detecting and Counting Oysters](https://arxiv.org/abs/2105.09758)
 - [Oyster detection system](https://github.com/bsadr/oyster-detection)
+- [Original Dataset Roboflow](https://universe.roboflow.com/newoysters/threestateoyster/dataset/34)
 
 ## Methods:
 
 ### - Dataset
-The oyster detection datasets can be found under the datasets directory, two datasets are available, a multi-label with 1 base class and 2 states, and another using 3 state classes. The dataset is modified from prior work during [REU 2022](https://github.com/Zenny00/REU-Oyster_Orientation) which was compiled using 200 initially provided images and 800 images collected from various internet sources. All of the annotation was done using the online annotation tool [Roboflow](https://roboflow.com/). Changes to the original dataset include new images obtained at [Hornpoint Hatchery](https://hatchery.hpl.umces.edu/) being added to the dataset, as well as some relabeling of the original dataset.
+The oyster detection datasets can be found under the datasets directory, two datasets are available, a multi-label with 1 base class and 2 states, and another using 3 state classes. The dataset is modified from prior work during [REU 2022](https://github.com/Zenny00/REU-Oyster_Orientation) which was compiled using 200 initially provided images and 800 images collected from various internet sources, it can be found on [Roboflow](https://universe.roboflow.com/newoysters/threestateoyster/dataset/34). All of the annotation was done using the online annotation tool [Roboflow](https://roboflow.com/). Changes to the original dataset include new images obtained at [Hornpoint Hatchery](https://hatchery.hpl.umces.edu/) being added to the dataset, as well as some relabeling of the original dataset.
 
 The dataset contains images spanning various environments and camera angles to help increase the model's ability to generalize the features that make up an oyster. In the multi-label dataset, the oysters are all classified into a generic "Oyster" class, and for those where it is posible to tell, they are further labelled as either "Open" or "Closed".
 
