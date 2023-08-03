@@ -58,7 +58,9 @@ Below are some examples of inference run on various images, as well as some trac
 ## Single Label - Segmentation
 
 
-https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/107053197/fb8d62c5-6d9b-45c5-94cd-4e9886e15385
+
+https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/107053197/42a468e6-3688-4ac4-afd6-89e6bff967b3
+
 
 
 
