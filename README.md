@@ -1,6 +1,9 @@
 # Machine Learning and Computer Vision Techniques to Identify and Monitor *Ostreidae* Nondisruptively
-<a href="./GettingStarted.md#anaconda"><img src="https://img.shields.io/badge/Run%20with%20Anaconda-h?logo=anaconda&labelColor=grey" /></a>
-
+<a href="./GettingStarted.md#anaconda"><img src="https://img.shields.io/badge/Run%20with%20Anaconda-h?logo=anaconda&labelColor=grey&color=%2344A833" /></a>
+<a target="_blank" href="https://colab.research.google.com/github/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/blob/main/OysterMonitoringYolo8-Colab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<a href="./GettingStarted.md"><img src="https://img.shields.io/badge/Getting%20Started%20-%20h?label=Not%20sure%20which%20to%20use%3F&labelColor=grey&color=darkviolet" /></a>
 
 ## This research was done at Salisbury University as a joint project between the NSF REU Summer 2023 Program and University of Maryland Eastern Shore USDA Smart Shellfish Farming grant:
 - [Salisbury University Website](https://www.salisbury.edu/)
