@@ -58,7 +58,7 @@ Last years work seeked to help improve classification of oysters that were hard 
 
 Below are some examples of inference run on various images, as well as some tracking done on video.
 
-## Single Label - Segmentation
+## Single-Label - Segmentation
 
 
 
@@ -67,7 +67,12 @@ https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/107053
 
 
 
-## Single Label - Detection
+## Multi-Label - Segmentation
+
+
+
+https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/118875186/d47ffbb2-709c-4d63-9cf8-79b19f9f5112
+
 
 
 ## Multi-label - Detection
@@ -78,7 +83,8 @@ https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/118875
 
 
 
-## Multi-label - Detection
+## Multi-label - Classification
+
 
 
 # Getting Started 
