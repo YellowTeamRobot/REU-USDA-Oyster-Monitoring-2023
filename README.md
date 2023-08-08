@@ -83,9 +83,6 @@ https://github.com/YellowTeamRobot/REU-USDA-Oyster-Monitoring-2023/assets/118875
 
 
 
-## Multi-label - Classification
-
-
 
 # Getting Started 
 
